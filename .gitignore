@@ -1,5 +1,2 @@
-*.FASL
-*.fasl
-*.lisp-temp
-*.pyc
 env.sh
+*.pyc
